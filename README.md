@@ -16,7 +16,7 @@ I code every day, my mistakes are the best way to learn.
 This is a great journey, which changed my life after 17 years working in another branch (Psychology).
 
 * 🌍  I'm based in Hamburg
-* ✉️  You can contact me at [mundo.amigos@icloud.com](mailto:mundo.amigos@icloud.com)
+* ✉️  You can contact me at [aurea.mariana.gg@gmail.com](mailto:aurea.mariana.gg@gmail.com)
 * 🧠  I'm learning GitLab, Kubernetes, Prompt Engeneering
 * 🤝  I'm open to collaborating on automation and frameworks
 * ⚡  Beside of coding, i love to practice weekly different sports and reward myself with wellness
