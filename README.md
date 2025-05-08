@@ -60,14 +60,18 @@ This is a great journey, which changed my life after 17 years working in another
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mariana-GG"><img src="https://github-readme-stats.vercel.app/api?username=Mariana-GG&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ef4444&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="Mariana-GG's GitHub stats" /></a>
+<a href="http://www.github.com/Mariana-GG"><img src="https://github-readme-stats.vercel.app/api?username=Mariana-GG&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&show_icons=true" alt="Mariana-GG's GitHub stats" /></a>
 
-<a href="http://www.github.com/Mariana-GG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariana-GG&stroke=ef4444&background=581c87&ring=84cc16&fire=84cc16&currStreakNum=ef4444&currStreakLabel=84cc16&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<a href="http://www.github.com/Mariana-GG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariana-GG&stroke=f5d0fe&background=db2777&ring=f0abfc&fire=f0abfc&currStreakNum=f5d0fe&currStreakLabel=f0abfc&sideNums=f5d0fe&sideLabels=f5d0fe&dates=f5d0fe&hide_border=true" /></a>
 
-<a href="http://www.github.com/Mariana-GG"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mariana-GG&bg_color=581c87&color=ef4444&line=facc15&point=ef4444&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Mariana-GG"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariana-GG&bg_color=db2777&color=f5d0fe&line=f0abfc&point=f5d0fe&area_color=db2777&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Mariana-GG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&langs_count=10&title_color=84cc16&text_color=ef4444&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Mariana-GG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&langs_count=10&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Mariana-GG/deploy_django" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mariana-GG&repo=deploy_django&title_color=84cc16&text_color=ef4444&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a><a href="https://github.com/Mariana-GG/Mariana-GG.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mariana-GG&repo=Mariana-GG.github.io&title_color=84cc16&text_color=ef4444&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/Mariana-GG/deploy_django" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mariana-GG&repo=deploy_django&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/Mariana-GG/Mariana-GG.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mariana-GG&repo=Mariana-GG.github.io&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&locale=en" /></a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
