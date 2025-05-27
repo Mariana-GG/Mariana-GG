@@ -73,8 +73,9 @@ This is a great journey, which changed my life after 17 years working in another
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
+<div width="100%" align="left">
   <a href="https://github.com/Mariana-GG/deploy_django" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mariana-GG&repo=deploy_django&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/Mariana-GG/Mariana-GG.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mariana-GG&repo=Mariana-GG.github.io&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&locale=en" /></a>
+
+<a href="https://github.com/Mariana-GG/Mariana-GG.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mariana-GG&repo=Mariana-GG.github.io&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&locale=en" /></a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
