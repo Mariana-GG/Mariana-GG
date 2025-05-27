@@ -68,7 +68,7 @@ This is a great journey, which changed my life after 17 years working in another
 
 <a href="https://github.com/Mariana-GG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&langs_count=10&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
-https://roadmap.sh/git-github?s=681cd69742b1a2478735f364
+[![roadmap.sh](https://roadmap.sh/card/wide/681cd69742b1a2478735f364?variant=light)](https://roadmap.sh)
 
 <b>Top Repositories</b>
 
