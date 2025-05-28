@@ -56,7 +56,7 @@ This is a great journey, which changed my life after 17 years working in another
   </a>
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/681cd69742b1a2478735f364?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/681cd69742b1a2478735f364?variant=dark)](https://roadmap.sh)
 
 ### Badges
 
