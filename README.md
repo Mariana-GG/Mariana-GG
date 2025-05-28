@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aurea Mariana Gallegos Gloria
 =====================================================================================================================================================
 
-Junior Python Backend & Software Developer
+##Junior Python Backend & Software Developer
 ------------------------------------------
 
-\** Automation & Problem-Solving Enthusiast **
+###*Automation & Problem-Solving Enthusiast*
 
 Pretty New Junior with 1 year of full-time, hands-on backend development training, I’ve built and deployed projects using Django, Django REST APIs, and AWS EC2, focusing on learning how to create a clean architecture and applying PEP8 and all good practices given at my formation program. 
 
@@ -56,7 +56,7 @@ This is a great journey, which changed my life after 17 years working in another
   </a>
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/681cd69742b1a2478735f364?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/681cd69742b1a2478735f364?variant=dark)](https://roadmap.sh)
 
 ### Badges
 
