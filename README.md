@@ -1,5 +1,5 @@
 # Hi,
- here i am,Aurea Mariana Gallegos Gloria 
+# here i am,Aurea Mariana Gallegos Gloria 
 
 ## Junior Python Backend Software Developer and an Automation Problem Solving Enthusiast 
 
