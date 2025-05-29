@@ -1,19 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aurea Mariana Gallegos Gloria
-=====================================================================================================================================================
+# Hi My name is Aurea Mariana Gallegos Gloria 
 
-## Junior Python Backend & Software Developer
-------------------------------------------
+## Junior Python Backend Software Developer and an Automation Problem Solving Enthusiast 
 
-### *Automation & Problem-Solving Enthusiast*
+### Pretty New Junior with 1 year of full time hands on backend development training
 
-Pretty New Junior with 1 year of full-time, hands-on backend development training, I’ve built and deployed projects using Django, Django REST APIs, and AWS EC2, focusing on learning how to create a clean architecture and applying PEP8 and all good practices given at my formation program. 
-
-Many times i am having a hard time debugging, also finding out how to approach the best solution for each challenge and i love the process!  (Despite of the little frustration, when i can not find the bug for hours or days).
-
-My passion lies in terminal workflows, packaging, and scripting automation (Bash/Python) to streamline processes and resolve structural challenges.
-I code every day, my mistakes are the best way to learn. 
-
-This is a great journey, which changed my life after 17 years working in another branch (Psychology).
+ I ve built and deployed projects using Django Django REST APIs and AWS EC2 focusing on learning how to create a clean architecture and applying *PEP8 and all good practices given at my formation program* I am struggling many times during debugging andd where the right way is to fix the problem, and I enjoy thr process 
+*Frustrating little though,when I can't figure out where it's hiding For hours or days.* 
+I have specialized in terminal workflows for packing and scripting(bash, python).
+I play around with something on a roadmap every day,and my mistakes continue to make me a better person. This is a fun trip and I enjoy nothing more than collaborating and goofing around with friends for a spontaneous project.
 
 * 🌍  I'm based in Hamburg
 * ✉️  You can contact me at [aurea.mariana.gg@gmail.com](mailto:aurea.mariana.gg@gmail.com)
