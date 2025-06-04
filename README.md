@@ -50,31 +50,20 @@ I play around with something on a roadmap every day,and my mistakes continue t
 </p>
 
 ### Socials
-
 <p align="left">
-  <!-- GitHub -->
-  <a href="https://www.github.com/Mariana-GG" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aurea-mariana-gallegos-gloria-backend-developer" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-
-  <!-- Docker Hub -->
-  <a href="https://hub.docker.com/u/marianagg" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" style="max-width: 100%;" />
-  </a>
+    <a href="https://www.github.com/yourusername" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="32" height="32" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="32" height="32" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://medium.com/@yourusername" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/medium.svg" width="32" height="32" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://app.daily.dev/yourusername" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/devdotto.svg" width="32" height="32" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://hub.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" width="32" height="32" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://slothbytes.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/slides.svg" width="32" height="32" /></a>
 </p>
+
 
 [![roadmap.sh](https://roadmap.sh/card/wide/681cd69742b1a2478735f364?variant=dark)](https://roadmap.sh)
 
