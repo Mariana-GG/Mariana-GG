@@ -11,43 +11,79 @@ I play around with something on a roadmap every day,and my mistakes continue t
 
 * 🌍  I'm based in Hamburg
 * ✉️  You can contact me at [aurea.mariana.gg@gmail.com](mailto:aurea.mariana.gg@gmail.com)
-* 🧠  I'm learning GitLab, Kubernetes, Prompt Engeneering
+* 🧠  I'm learning GitLab, Kubernetes, Prompt Engeneering, GitLab at https://gitlab.com/Mariana-GG
+
 * 🤝  I'm open to collaborating on automation and frameworks
 * ⚡  Beside of coding, i love to practice weekly different sports and reward myself with wellness
 
 ### Skills
+<p style="white-space: nowrap; font-size: 0;">
+  <!-- 🟡 Yellow: Mockpi, AWS, Python -->
+  <a href="https://mockpi.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="36" height="36" alt="Mockpi" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="36" height="36" alt="AWS" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+  </a>&nbsp;&nbsp;&nbsp;
 
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="GitLab" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a>
+  <!-- 🟢 Green: Linux, Bash -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- 🔴 Red: HTML5, Git, GitLab, Postman, Flask, Django -->
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="GitLab" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- 🟣 Purple: Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- 🔵 Blue: Docker, PostgreSQL, CSS3 -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <!-- ⚪ Grey: VS Code, macOS -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="36" height="36" alt="VS Code" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://apple.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="macOS" />
+  </a>
 </p>
+
+
+
 
 ### Socials
 <p align="left">
