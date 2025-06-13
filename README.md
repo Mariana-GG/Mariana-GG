@@ -31,7 +31,7 @@
 
 <!-- Profile Photo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Bewerbungsportrait.png" alt="Aurea Mariana Gallegos" width="200px" style="border-radius:50%;"/>
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Bewerbungsportrait.png" alt="Aurea Mariana Gallegos" width="100px" style="border-radius:50%;"/>
 </p>
 
 ### A little about me...
