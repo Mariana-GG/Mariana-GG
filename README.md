@@ -1,126 +1,89 @@
-# Hi, here i am, Aurea Mariana Gallegos Gloria 
-
-## Junior Python Backend Software Developer and an Automation Problem Solving Enthusiast 
-
-### Pretty New Junior with 1 year of full time hands on backend development training
-
- I ve built and deployed projects using Django Django REST APIs and AWS EC2 focusing on learning how to create a clean architecture and applying *PEP8 and all good practices given at my formation program* I am struggling many times during debugging andd where the right way is to fix the problem, and I enjoy thr process 
-*Frustrating little though,when I can't figure out where it's hiding For hours or days.* 
-I have specialized in terminal workflows for packing and scripting(bash, python).
-I play around with something on a roadmap every day,and my mistakes continue to make me a better person. This is a fun trip and I enjoy nothing more than collaborating and goofing around with friends for a spontaneous project.
-
-* 🌍  I'm based in Hamburg
-* ✉️  You can contact me at [aurea.mariana.gg@gmail.com](mailto:aurea.mariana.gg@gmail.com)
-* 🧠  I'm learning GitLab, Kubernetes, Prompt Engeneering, GitLab at https://gitlab.com/Mariana-GG
-
-* 🤝  I'm open to collaborating on automation and frameworks
-* ⚡  Beside of coding, i love to practice weekly different sports and reward myself with wellness
-
-### Skills
-<p style="white-space: nowrap; font-size: 0;">
-  <!-- 🟡 Yellow: Mockpi, AWS, Python -->
-  <a href="https://mockpi.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="36" height="36" alt="Mockpi" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="36" height="36" alt="AWS" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- 🟢 Green: Linux, Bash -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- 🔴 Red: HTML5, Git, GitLab, Postman, Flask, Django -->
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="GitLab" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- 🟣 Purple: Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- 🔵 Blue: Docker, PostgreSQL, CSS3 -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- ⚪ Grey: VS Code, macOS -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="36" height="36" alt="VS Code" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://apple.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="macOS" />
-  </a>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/input_file_3.png" alt="Aurea Mariana Gallegos Banner"/>
 </p>
 
+<!-- Animated Introduction -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/header-animation.svg" alt="Hi there, I'm Aurea Mariana. A Python developer with a love for creative problem-solving."/>
+</p>
 
+<!-- Social & Professional Links -->
+<p align="center">
+    <a href="mailto:aurea.mariana.gg@gmail.com"><img src="https://img.shields.io/badge/Email-DDA790?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+     
+    <a href="https://www.linkedin.com/in/aurea-mariana-gallegos-gloria-backend-developer"><img src="https://img.shields.io/badge/LinkedIn-DDA790?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+     
+    <a href="https://www.github.com/Mariana-GG"><img src="https://img.shields.io/badge/GitHub-DDA790?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+     
+    <a href="https://www.youtube.com/@Aurea-Mariana-GG"><img src="https://img.shields.io/badge/YouTube-DDA790?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+     
+    <a href="https://orcid.org/0009-0000-1609-4468"><img src="https://img.shields.io/badge/ORCID-DDA790?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+     
+    <a href="https://hub.docker.com/repositories/marianagg"><img src="https://img.shields.io/badge/Docker%20Hub-DDA790?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/></a>
+     
+    <a href="https://app.daily.dev/marianagg"><img src="https://img.shields.io/badge/daily.dev-DDA790?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily.dev"/></a>
+     
+    <a href="https://roadmap.sh/u/marianagg"><img src="https://img.shields.io/badge/My%20Roadmap-DDA790?style=for-the-badge&logoColor=white" alt="Roadmap.sh"/></a>
+</p>
 
+---
 
-### Socials
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p align="center">
+          <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/input_file_4.png" alt="Aurea Mariana Gallegos" width="200px" style="border-radius:50%;"/>
+      </p>
+      
+### A little about me...
+
+Hello! I'm a Python backend developer based in beautiful Hamburg 🇩🇪, and I'm completely fascinated by the puzzle of automation. For the past year, I've been diving deep into full-time backend development, learning to build and deploy projects with Django, REST APIs, and AWS.
+
+My passion lies in crafting clean, elegant architecture (shout out to PEP8!) and the satisfying process of debugging. The struggle is real when a bug plays hide-and-seek for hours (or days!), but that 'aha!' moment makes it all worth it. Every mistake is just a stepping stone, and I truly believe this whole coding journey is a wonderfully fun trip.
+
+When I'm not coding, you can find me practicing different sports or enjoying a moment of wellness. I'm always open to collaborating on spontaneous projects, especially those involving automation and frameworks—let's build something cool together!
+      
+<br>
+
+🧠  **Currently Learning:** GitLab, Kubernetes, and the art of Prompt Engineering. <br>
+🤝  **Open to Collaborating On:** Automation projects and backend frameworks.
+
+    </td>
+    <td valign="top" width="40%">
+      
+### My Tech Stack & Tools
+      
 <p align="left">
-    <a href="https://www.github.com/yourusername" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="32" height="32" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="32" height="32" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/@yourusername" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/medium.svg" width="32" height="32" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://app.daily.dev/yourusername" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/devdotto.svg" width="32" height="32" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://hub.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" width="32" height="32" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://slothbytes.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/slides.svg" width="32" height="32" /></a>
+    <img src="https://img.shields.io/badge/Python-EACDAC?style=for-the-badge&logo=python&logoColor=4A4A4A" alt="Python"/>
+    <img src="https://img.shields.io/badge/Django-EACDAC?style=for-the-badge&logo=django&logoColor=4A4A4A" alt="Django"/>
+    <img src="https://img.shields.io/badge/Flask-EACDAC?style=for-the-badge&logo=flask&logoColor=4A4A4A" alt="Flask"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-EACDAC?style=for-the-badge&logo=postgresql&logoColor=4A4A4A" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/AWS-EACDAC?style=for-the-badge&logo=amazonaws&logoColor=4A4A4A" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Docker-EACDAC?style=for-the-badge&logo=docker&logoColor=4A4A4A" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Bash-EACDAC?style=for-the-badge&logo=gnubash&logoColor=4A4A4A" alt="Bash"/>
+    <img src="https://img.shields.io/badge/Linux-EACDAC?style=for-the-badge&logo=linux&logoColor=4A4A4A" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Git-EACDAC?style=for-the-badge&logo=git&logoColor=4A4A4A" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitLab-EACDAC?style=for-the-badge&logo=gitlab&logoColor=4A4A4A" alt="GitLab"/>
+    <img src="https://img.shields.io/badge/HTML5-EACDAC?style=for-the-badge&logo=html5&logoColor=4A4A4A" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-EACDAC?style=for-the-badge&logo=css3&logoColor=4A4A4A" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Bootstrap-EACDAC?style=for-the-badge&logo=bootstrap&logoColor=4A4A4A" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Postman-EACDAC?style=for-the-badge&logo=postman&logoColor=4A4A4A" alt="Postman"/>
+    <img src="https://img.shields.io/badge/VS%20Code-EACDAC?style=for-the-badge&logo=visualstudiocode&logoColor=4A4A4A" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/macOS-EACDAC?style=for-the-badge&logo=macos&logoColor=4A4A4A" alt="macOS"/>
+    <img src="https://img.shields.io/badge/Mockpi-EACDAC?style=for-the-badge&logoColor=4A4A4A" alt="Mockpi"/>
 </p>
 
+    </td>
+  </tr>
+</table>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/681cd69742b1a2478735f364?variant=dark)](https://roadmap.sh)
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Mariana-GG"><img src="https://github-readme-stats.vercel.app/api?username=Mariana-GG&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&show_icons=true" alt="Mariana-GG's GitHub stats" /></a>
-
-<a href="http://www.github.com/Mariana-GG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariana-GG&stroke=f5d0fe&background=db2777&ring=f0abfc&fire=f0abfc&currStreakNum=f5d0fe&currStreakLabel=f0abfc&sideNums=f5d0fe&sideLabels=f5d0fe&dates=f5d0fe&hide_border=true" /></a>
-
-<a href="http://www.github.com/Mariana-GG"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariana-GG&bg_color=db2777&color=f5d0fe&line=f0abfc&point=f5d0fe&area_color=db2777&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Mariana-GG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&langs_count=10&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
-
-<b>Top Repositories</b>
-
-<div width="85%" align="left">
-  <a href="https://github.com/Mariana-GG/deploy_django" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mariana-GG&repo=deploy_django&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&locale=en" /></a>
-
-<a href="https://github.com/Mariana-GG/Mariana-GG.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mariana-GG&repo=Mariana-GG.github.io&title_color=ffffff&text_color=f5d0fe&icon_color=f0abfc&bg_color=db2777&hide_border=true&locale=en" /></a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
+### 
+<p align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariana-GG&show_icons=true&hide_border=true&title_color=4A4A4A&icon_color=DDA790&text_color=4A4A4A&bg_color=FBF6F0" alt="Mariana-GG's GitHub stats" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariana-GG&hide_border=true&stroke=4A4A4A&background=FBF6F0&ring=DDA790&fire=DDA790&currStreakNum=4A4A4A&currStreakLabel=4A4A4A&sideNums=4A4A4A&sideLabels=4A4A4A&dates=4A4A4A" alt="GitHub Streak" />
+  <!-- Top Languages Card (Compact Layout) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&layout=compact&hide_border=true&title_color=4A4A4A&text_color=4A4A4A&bg_color=FBF6F0" alt="Top Languages"/>
+</p>
