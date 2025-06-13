@@ -1,9 +1,9 @@
-<!-- Banner Image -->
+<!-- Banner Image 
 <p align="center">
   <a href="https://github.com/Mariana-GG">
     <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/input_file_3.png" alt="Aurea Mariana Gallegos Banner"/>
   </a>
-</p>
+</p> -->
 
 <!-- Animated Introduction -->
 <p align="center">
@@ -28,7 +28,6 @@
 </p>
 
 ---
-
 <!-- Profile Photo -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Bewerbungsportrait.png" alt="Aurea Mariana Gallegos" width="100px" style="border-radius:50%;"/>
@@ -44,23 +43,50 @@ My passion lies in crafting clean, elegant architecture (shout out to PEP8!) and
 When I'm not coding, you can find me practicing different sports or enjoying a moment of wellness. I'm always open to collaborating on spontaneous projects, especially those involving automation and frameworks—let's build something cool together!
 </p>
 
+
+
+---
 <p align="center">
-🧠  **Currently Learning:** GitLab, Kubernetes, and the art of Prompt Engineering. <br>
-🤝  **Open to Collaborating On:** Automation projects and backend frameworks.
+🧠  Currently Learning: GitLab, Kubernetes and LLMs. <br>
+🤝  Open to Collaborating On: Automation projects and backend frameworks.
 </p>
 
 ---
 
-### My Tech Stack & Tools
+### Tech Junior Experience
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/skill_icons.svg" alt="My Tech Stack and Tools"/>
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-EACDAC?style=for-the-badge&logo=python&logoColor=4A4A4A" alt="Python"/> 
+    <img src="https://img.shields.io/badge/Django-EACDAC?style=for-the-badge&logo=django&logoColor=4A4A4A" alt="Django"/> 
+    <img src="https://img.shields.io/badge/Flask-EACDAC?style=for-the-badge&logo=flask&logoColor=4A4A4A" alt="Flask"/> 
+    <img src="https://img.shields.io/badge/REST%20APIs-EACDAC?style=for-the-badge&logoColor=4A4A4A" alt="REST APIs"/> 
+    <img src="https://img.shields.io/badge/ORM-EACDAC?style=for-the-badge&logoColor=4A4A4A" alt="ORM"/> 
+    <img src="https://img.shields.io/badge/PostgreSQL-EACDAC?style=for-the-badge&logo=postgresql&logoColor=4A4A4A" alt="PostgreSQL"/> 
+    <img src="https://img.shields.io/badge/AWS-EACDAC?style=for-the-badge&logo=amazonaws&logoColor=4A4A4A" alt="AWS"/> 
+    <img src="https://img.shields.io/badge/Docker-EACDAC?style=for-the-badge&logo=docker&logoColor=4A4A4A" alt="Docker"/> 
+    <img src="https://img.shields.io/badge/CI/CD-EACDAC?style=for-the-badge&logo=githubactions&logoColor=4A4A4A" alt="CI/CD"/> 
+    <img src="https://img.shields.io/badge/Bash-EACDAC?style=for-the-badge&logo=gnubash&logoColor=4A4A4A" alt="Bash"/> 
+    <img src="https://img.shields.io/badge/Linux-EACDAC?style=for-the-badge&logo=linux&logoColor=4A4A4A" alt="Linux"/> 
+    <img src="https://img.shields.io/badge/Git-EACDAC?style=for-the-badge&logo=git&logoColor=4A4A4A" alt="Git"/> 
+    <img src="https://img.shields.io/badge/GitLab-EACDAC?style=for-the-badge&logo=gitlab&logoColor=4A4A4A" alt="GitLab"/> 
+    <img src="https://img.shields.io/badge/HTML5-EACDAC?style=for-the-badge&logo=html5&logoColor=4A4A4A" alt="HTML5"/> 
+    <img src="https://img.shields.io/badge/CSS3-EACDAC?style=for-the-badge&logo=css3&logoColor=4A4A4A" alt="CSS3"/> 
+    <img src="https://img.shields.io/badge/Bootstrap-EACDAC?style=for-the-badge&logo=bootstrap&logoColor=4A4A4A" alt="Bootstrap"/> 
+    <img src="https://img.shields.io/badge/Postman-EACDAC?style=for-the-badge&logo=postman&logoColor=4A4A4A" alt="Postman"/> 
+    <img src="https://img.shields.io/badge/VS%20Code-EACDAC?style=for-the-badge&logo=visualstudiocode&logoColor=4A4A4A" alt="VS Code"/> 
+    <img src="https://img.shields.io/badge/macOS-EACDAC?style=for-the-badge&logo=macos&logoColor=4A4A4A" alt="macOS"/> 
+    <img src="https://img.shields.io/badge/Mockpi-EACDAC?style=for-the-badge&logoColor=4A4A4A" alt="Mockpi"/>
 </p>
 
----
-
-### Track me
-
+### Track my work
+<p align="left">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariana-GG&show_icons=true&hide_border=true&title_color=4A4A4A&icon_color=DDA790&text_color=4A4A4A&bg_color=FBF6F0" alt="Mariana-GG's GitHub stats" width="300px"/>
+    
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&layout=compact&hide_border=true&title_color=4A4A4A&text_color=4A4A4A&bg_color=FBF6F0" alt="Top Languages"/>
+</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/track_me.svg" alt="My GitHub Activity and Roadmap"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariana-GG&bg_color=FBF6F0&color=4A4A4A&line=DDA790&point=4A4A4A&area=true&hide_border=true" />
 </p>
