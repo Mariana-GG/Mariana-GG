@@ -11,6 +11,7 @@
 </p>
 
 <!-- Social & Professional Links -->
+<!-- Corrected Social & Professional Links -->
 <p align="center">
     <a href="mailto:aurea.mariana.gg@gmail.com"><img src="https://img.shields.io/badge/Email-DDA790?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
      
@@ -24,7 +25,7 @@
      
     <a href="https://app.daily.dev/marianagg"><img src="https://img.shields.io/badge/daily.dev-DDA790?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily.dev"/></a>
      
-    <a href="https://roadmap.sh/u/marianagg"><img src="https://img.shields.io/badge/My%20Roadmap-DDA790?style=for-the-badge&logoColor=white" alt="Roadmap.sh"/></a>
+    <a href="https://roadmap.sh/u/marianagg"><img src="https://img.shields.io/badge/My%20Roadmap-DDA790?style=for-the-badge&logo=roadmap.sh&logoColor=white" alt="Roadmap.sh"/></a>
 </p>
 
 ---
@@ -33,9 +34,9 @@
   <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Bewerbungsportrait.png" alt="Aurea Mariana Gallegos" width="100px" style="border-radius:50%;"/>
 </p>
 
-### A little about me...
 
-<p align="center">
+
+<p align="left">
 Hello! I'm a Python backend developer based in beautiful Hamburg 🇩🇪, and I'm completely fascinated by the puzzle of automation. For the past year, I've been diving deep into full-time backend development, learning to build and deploy projects with Django, REST APIs, and AWS.
 
 My passion lies in crafting clean, elegant architecture (shout out to PEP8!) and the satisfying process of debugging. The struggle is real when a bug plays hide-and-seek for hours (or days!), but that 'aha!' moment makes it all worth it. Every mistake is just a stepping stone, and I truly believe this whole coding journey is a wonderfully fun trip.
@@ -47,8 +48,8 @@ When I'm not coding, you can find me practicing different sports or enjoying a m
 
 ---
 <p align="center">
-🧠  Currently Learning: GitLab, Kubernetes and LLMs. <br>
-🤝  Open to Collaborating On: Automation projects and backend frameworks.
+--> Currently Learning: GitLab, Kubernetes and LLMs. <br>
+--> Open to Collaborating On: Automation projects and backend frameworks.
 </p>
 
 ---
