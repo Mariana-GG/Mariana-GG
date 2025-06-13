@@ -1,4 +1,3 @@
-<!-- Save this as header-animation.svg in your repository -->
 <svg fill="none" viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
@@ -11,9 +10,19 @@
                     from, to { border-color: transparent; }
                     50% { border-color: #4A4A4A; }
                 }
+                @keyframes fadeIn {
+                    from { opacity: 0; }
+                    to { opacity: 1; }
+                }
                 .container {
                     font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
                     color: #4A4A4A;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    height: 100%;
+                    text-align: center;
                 }
 				h1 {
 					font-size: 38px;
@@ -31,16 +40,12 @@
                     margin-top: 10px;
                     opacity: 0;
                     animation: fadeIn 2s ease-in forwards;
-                    animation-delay: 2.5s;
-                }
-                @keyframes fadeIn {
-                    from { opacity: 0; }
-                    to { opacity: 1; }
+                    animation-delay: 2.5s; /* Starts after typing is finished */
                 }
 			</style>
 			<div class="container">
-				<h1>Hi there, I'm Aurea Mariana.</h1>
-                <p>A Python developer with a love for creative problem-solving.</p>
+				<h1>Aurea Mariana Gallegos</h1>
+                <p>a Python developer with a love for creative problem-solving</p>
 			</div>
 		</div>
 	</foreignObject>
