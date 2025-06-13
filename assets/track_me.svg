@@ -1,0 +1,50 @@
+<svg fill="none" width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                    font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+                    text-align: center;
+                }
+                .title {
+                    font-size: 24px;
+                    font-weight: 600;
+                    color: #4A4A4A;
+                    margin-bottom: 20px;
+                }
+                /* Flexbox container for each row */
+                .flex-row {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center; /* Vertically centers items in a row */
+                    gap: 16px; /* Space between items */
+                    margin-bottom: 16px;
+                }
+                /* Ensures images don't overflow their containers */
+                .flex-row img {
+                    max-width: 100%;
+                }
+            </style>
+            
+            <div class="container">
+                <h3 class="title">Track me</h3>
+                
+                <!-- First row: Stats and Top Languages -->
+                <div class="flex-row">
+                    <!-- GitHub Stats Card -->
+                    <img src="https://github-readme-stats.vercel.app/api?username=Mariana-GG&show_icons=true&hide_border=true&title_color=4A4A4A&icon_color=DDA790&text_color=4A4A4A&bg_color=FBF6F0" alt="Mariana-GG's GitHub stats" />
+                    <!-- Top Languages Card -->
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&layout=compact&hide_border=true&title_color=4A4A4A&text_color=4A4A4A&bg_color=FBF6F0" alt="Top Languages"/>
+                </div>
+
+                <!-- Second row: Activity Graph and Roadmap -->
+                <div class="flex-row">
+                    <!-- Activity Graph -->
+                    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariana-GG&bg_color=FBF6F0&color=4A4A4A&line=DDA790&point=4A4A4A&area=true&hide_border=true" />
+                    <!-- Roadmap.sh Card - now styled with your brand colors! -->
+                    <img src="https://roadmap.sh/card/wide/681cd69742b1a2478735f364?backgroundColor=FBF6F0&textColor=4A4A4A&accentColor=DDA790&accentColor2=EACDAC" />
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
