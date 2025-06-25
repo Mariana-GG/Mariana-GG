@@ -1,9 +1,10 @@
-<!-- Banner Image 
+<!-- Banner Image -->
 <p align="center">
   <a href="https://github.com/Mariana-GG">
-    <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/input_file_3.png" alt="Aurea Mariana Gallegos Banner"/>
+    <!-- WICHTIG: Bitte laden Sie das Bild 'github_banner.png' in Ihr Repository hoch und passen Sie den Pfad hier an -->
+    <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/github_banner.png" alt="Aurea Mariana Gallegos Banner"/>
   </a>
-</p> -->
+</p>
 
 <!-- Animated Introduction -->
 <p align="center">
@@ -11,7 +12,6 @@
 </p>
 
 <!-- Social & Professional Links -->
-<!-- Corrected Social & Professional Links -->
 <p align="center">
     <a href="mailto:aurea.mariana.gg@gmail.com"><img src="https://img.shields.io/badge/Email-DDA790?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
      
@@ -26,13 +26,14 @@
     <a href="https://app.daily.dev/marianagg"><img src="https://img.shields.io/badge/daily.dev-DDA790?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Daily.dev"/></a>
      
     <a href="https://roadmap.sh/u/marianagg"><img src="https://img.shields.io/badge/My%20Roadmap-DDA790?style=for-the-badge&logo=roadmap.sh&logoColor=white" alt="Roadmap.sh"/></a>
+     
+    <a href="https://www.sundai.club/hacker/44dcec1e-42b7-4b93-9e54-3f2d24aadc5a"><img src="https://img.shields.io/badge/Sundai-DDA790?style=for-the-badge&logoColor=white" alt="Sundai"/></a>
 </p>
 
-* https://www.sundai.club/hacker/44dcec1e-42b7-4b93-9e54-3f2d24aadc5a
 ---
 <!-- Profile Photo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Bewerbungsportrait.png" alt="Aurea Mariana Gallegos" width="100px" style="border-radius:50%;"/>
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Bewerbungsportrait.png" alt="Aurea Mariana Gallegos" width="97px" style="border-radius:50%;"/>
 </p>
 
 
@@ -80,12 +81,12 @@ When I'm not coding, you can find me practicing different sports or enjoying a m
     <img src="https://img.shields.io/badge/Mockpi-EACDAC?style=for-the-badge&logoColor=4A4A4A" alt="Mockpi"/>
 </p>
 
-
+<p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariana-GG&bg_color=FBF6F0&color=4A4A4A&line=DDA790&point=4A4A4A&area=true&hide_border=true" width="997px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariana-GG&bg_color=FBF6F0&color=4A4A4A&line=DDA790&point=4A4A4A&area=true&hide_border=true" width="500px"/>
 </p>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&layout=compact&hide_border=true&title_color=4A4A4A&text_color=4A4A4A&bg_color=FBF6F0&area=true&hide_border=true" width="997px"" alt="Top Languages"/>
+<p align="center">
+  <!-- Top Languages Card (Width corrected) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&layout=compact&hide_border=true&title_color=4A4A4A&text_color=4A4A4A&bg_color=FBF6F0&area=true&hide_border=true" width="500px" alt="Top Languages"/>
 </p>
-
