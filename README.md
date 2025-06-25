@@ -1,8 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://github.com/Mariana-GG">
-    <!-- Das Bild wird auf 1280x200 Pixel skaliert, verwendet aber die Originaldatei -->
-    <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/github_banner.png" alt="Aurea Mariana Gallegos Banner" width="1280px" height="200px"/>
+    <!-- Der Dateiname wurde URL-kodiert (Leerzeichen durch %20 ersetzt), um korrekt geladen zu werden -->
+    <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Beige%20Minimalist%20Professional%20LinkedIn%20Background%20Photo.png" alt="Aurea Mariana Gallegos Banner" width="1280px" height="200px"/>
   </a>
 </p>
 
