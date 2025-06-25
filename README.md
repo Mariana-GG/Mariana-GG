@@ -1,14 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://github.com/Mariana-GG">
-    <!-- WICHTIG: Bitte laden Sie das Bild 'github_banner.png' in Ihr Repository hoch und passen Sie den Pfad hier an -->
-    <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/github_banner.png" alt="Aurea Mariana Gallegos Banner"/>
+    <!-- Das Bild wird auf 1280x200 Pixel skaliert, verwendet aber die Originaldatei -->
+    <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/github_banner.png" alt="Aurea Mariana Gallegos Banner" width="1280px" height="200px"/>
   </a>
-</p>
-
-<!-- Animated Introduction -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/header-animation.svg" alt="Aurea Mariana Gallegos"/>
 </p>
 
 <!-- Social & Professional Links -->
