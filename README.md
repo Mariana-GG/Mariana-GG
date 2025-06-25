@@ -26,10 +26,10 @@
 </p>
 
 ---
-<!-- Profile Photo -->
+<!-- Profile Photo 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Bewerbungsportrait.png" alt="Aurea Mariana Gallegos" width="97px" style="border-radius:50%;"/>
-</p>
+</p> -->
 
 
 
