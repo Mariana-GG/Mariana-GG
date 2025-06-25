@@ -80,16 +80,12 @@ When I'm not coding, you can find me practicing different sports or enjoying a m
     <img src="https://img.shields.io/badge/Mockpi-EACDAC?style=for-the-badge&logoColor=4A4A4A" alt="Mockpi"/>
 </p>
 
-### Track my work
-<p align="left">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariana-GG&show_icons=true&hide_border=true&title_color=4A4A4A&icon_color=DDA790&text_color=4A4A4A&bg_color=FBF6F0" alt="Mariana-GG's GitHub stats" width="450px"/>
-    
+
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariana-GG&bg_color=FBF6F0&color=4A4A4A&line=DDA790&point=4A4A4A&area=true&hide_border=true" width="536px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariana-GG&bg_color=FBF6F0&color=4A4A4A&line=DDA790&point=4A4A4A&area=true&hide_border=true" width="997px"/>
 </p>
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&layout=compact&hide_border=true&title_color=4A4A4A&text_color=4A4A4A&bg_color=FBF6F0" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&layout=compact&hide_border=true&title_color=4A4A4A&text_color=4A4A4A&bg_color=FBF6F0&area=true&hide_border=true" width="997px"" alt="Top Languages"/>
 </p>
-<p align="right">
+
