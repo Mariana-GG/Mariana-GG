@@ -38,7 +38,7 @@ Branding Colors:
 </p>
 
 <div align="justify">
-<p align="center">🌸</p>
+<p align="left">🌸</p>
 
 <strong>My core belief is that great software is built by great teams.</strong>
 <br><br>
@@ -46,7 +46,7 @@ I love the joy of untangling a complex bug, but my psychology background taught 
 <br><br>
 <i>That's why I'm looking for a partnership where our values align, so we can be truly valuable for one another.</i>
 
-<p align="center">🌸</p>
+<p align="left">🌸</p>
 </div>
 
 <!-- Custom Divider -->
