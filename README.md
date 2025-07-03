@@ -1,7 +1,7 @@
 <!-- 
 Branding Colors:
 - Background / Light Accent: #fff6e5
-- Primary Accent (Social Buttons): #DDA790 
+- Primary Accent (Social Buttons): #DDA790
 - Secondary Accent (Skill Buttons): #EACDAC
 - Text & Dark Points: #4A4A4A
 -->
@@ -34,7 +34,7 @@ Branding Colors:
 
 <!-- Custom Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/divider.png" alt="Custom Divider" />
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
 </p>
 
 <div align="justify">
@@ -51,18 +51,18 @@ I love the joy of untangling a complex bug, but my psychology background taught 
 
 <!-- Custom Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/divider.png" alt="Custom Divider" />
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
 </p>
 
 <!-- Structured Learning & Collaboration Section -->
-<table align="center" width="80%">
+<table align="center" width="25%">
   <tr>
     <td align="center">
-      <h3>🌱 Currently Learning</h3>
+      <h10>🌱 Currently Learning</h10>
       <p>GitLab, Kubernetes, and LLMs</p>
     </td>
     <td align="center">
-      <h3>🤝 Open to Collaborating On</h3>
+      <h10>🌱 Open to Collaborating On</h10>
       <p>Automation projects and backend frameworks</p>
     </td>
   </tr>
@@ -70,7 +70,7 @@ I love the joy of untangling a complex bug, but my psychology background taught 
 
 <!-- Custom Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/divider.png" alt="Custom Divider" />
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
 </p>
 
 ### Tech Junior Experience
