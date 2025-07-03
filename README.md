@@ -37,16 +37,16 @@ Branding Colors:
   <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
 </p>
 
-<div align="justify">
-<p align="left">🌸</p>
+<div align="center">
+<p align="center">🌸</p>
 
-<strong>My core belief is that great software is built by great teams.</strong>
+<strong><font color="#4A4A4A">My core belief is that great software is built by great teams.</font></strong>
 <br><br>
-I love the joy of untangling a complex bug, but my psychology background taught me the secret is building <i>trust</i>. 
+<font color="#4A4A4A">I love the joy of untangling a complex bug, but my psychology background taught me the secret is building <i>trust</i>.</font> 
 <br><br>
-<i>That's why I'm looking for a partnership where our values align, so we can be truly valuable for one another.</i>
+<i><font color="#DDA790">That's why I'm looking for a partnership where our values align, so we can be truly valuable for one another.</font></i>
 
-<p align="left">🌸</p>
+<p align="center">🌸</p>
 </div>
 
 <!-- Custom Divider -->
