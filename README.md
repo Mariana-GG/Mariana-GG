@@ -12,7 +12,8 @@ Branding Colors:
     <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Github%20Banner%20for%20README.png" alt="Aurea Mariana Gallegos Banner" width="1280px" height="200px"/>
   </a>
 </p>
-
+<br>
+<br>
 <!-- Social & Professional Links -->
 <p align="center">
     <a href="mailto:aurea.mariana.gg@gmail.com"><img src="https://img.shields.io/badge/Email-fff6e5?style=for-the-badge&logo=gmail&logoColor=4A4A4A" alt="Email"/></a>
@@ -32,9 +33,10 @@ Branding Colors:
     <a href="https://www.sundai.club/hacker/44dcec1e-42b7-4b93-9e54-3f2d24aadc5a"><img src="https://img.shields.io/badge/Sundai-fff6e5?style=for-the-badge&logoColor=4A4A4A" alt="Sundai"/></a>
 </p>
 
+
 <!-- Custom Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%20dark%201000px%20x%2040px.png" alt="Custom Divider" />
 </p>
 
 <div align="center">
@@ -51,8 +53,10 @@ I love the joy of untangling a complex bug, but my psychology background taught 
 
 <!-- Custom Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%20dark%201000px%20x%2040px.png" alt="Custom Divider" />
 </p>
+<br>
+<br>
 
 <!-- Learning & Collaboration Badges -->
 <div align="center">
@@ -65,11 +69,12 @@ I love the joy of untangling a complex bug, but my psychology background taught 
   </p>
 </div>
 
-<!-- Custom Divider
+<!-- Custom Divider 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%20dark%201000px%20x%2040px.png" alt="Custom Divider" />
 </p>-->
-<br>
+
+
 <br>
 
 ### Tech Junior Experience
