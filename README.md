@@ -40,11 +40,11 @@ Branding Colors:
 <div align="center">
 <p align="center">🌸</p>
 
-<strong><font color="#4A4A4A">My core belief is that great software is built by great teams.</font></strong>
+<strong>My core belief is that great software is built by great teams.</strong>
 <br><br>
-<font color="#4A4A4A">I love the joy of untangling a complex bug, but my psychology background taught me the secret is building <i>trust</i>.</font> 
+I love the joy of untangling a complex bug, but my psychology background taught me the secret is building <i>trust</i>. 
 <br><br>
-<i><font color="#DDA790">That's why I'm looking for a partnership where our values align, so we can be truly valuable for one another.</font></i>
+<strong><i>That's why I'm looking for a partnership where our values align, so we can be truly valuable for one another.</i></strong>
 
 <p align="center">🌸</p>
 </div>
@@ -54,24 +54,23 @@ Branding Colors:
   <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
 </p>
 
-<!-- Structured Learning & Collaboration Section -->
-<table align="center" width="25%">
-  <tr>
-    <td align="center">
-      <h10>🌱 Currently Learning</h10>
-      <p>GitLab, Kubernetes, and LLMs</p>
-    </td>
-    <td align="center">
-      <h10>🌱 Open to Collaborating On</h10>
-      <p>Automation projects and backend frameworks</p>
-    </td>
-  </tr>
-</table>
+<!-- Learning & Collaboration Badges -->
+<div align="center">
+  <h3>🌱 Currently Learning & Collaborating On</h3>
+  <p>
+    <img src="https://img.shields.io/badge/GitLab-fff6e5?style=for-the-badge&logo=gitlab&logoColor=4A4A4A" alt="GitLab"/>
+    <img src="https://img.shields.io/badge/Kubernetes-fff6e5?style=for-the-badge&logo=kubernetes&logoColor=4A4A4A" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/LLMs-fff6e5?style=for-the-badge&logoColor=4A4A4A" alt="LLMs"/>
+    <img src="https://img.shields.io/badge/Automation-fff6e5?style=for-the-badge&logoColor=4A4A4A" alt="Automation Projects"/>
+  </p>
+</div>
 
-<!-- Custom Divider -->
+<!-- Custom Divider
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
-</p>
+</p>-->
+<br>
+<br>
 
 ### Tech Junior Experience
 
@@ -102,10 +101,10 @@ Branding Colors:
 
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariana-GG&bg_color=fff6e5&color=4A4A4A&line=DDA790&point=4A4A4A&area=true&hide_border=true" width="500px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariana-GG&bg_color=fff6e5&color=4A4A4A&line=DDA790&point=4A4A4A&area=true&hide_border=true" width="450px"/>
 </p>
 
 <p align="center">
   <!-- Top Languages Card (Width corrected) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&layout=compact&hide_border=true&title_color=4A4A4A&text_color=4A4A4A&bg_color=fff6e5&area=true&hide_border=true" width="500px" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-GG&layout=compact&hide_border=true&title_color=4A4A4A&text_color=4A4A4A&bg_color=fff6e5&area=true&hide_border=true" width="450px" alt="Top Languages"/>
 </p>
