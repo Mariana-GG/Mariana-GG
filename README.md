@@ -1,7 +1,7 @@
 <!-- 
 Branding Colors:
 - Background / Light Accent: #fff6e5
-- Primary Accent (Social Buttons): #DDA790
+- Primary Accent (Social Buttons): #DDA790 
 - Secondary Accent (Skill Buttons): #EACDAC
 - Text & Dark Points: #4A4A4A
 -->
