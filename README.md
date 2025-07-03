@@ -1,7 +1,7 @@
 <!-- 
 Branding Colors:
 - Background / Light Accent: #fff6e5
-- Primary Accent (Social Buttons): #DDA790 
+- Primary Accent (Social Buttons): #DDA790
 - Secondary Accent (Skill Buttons): #EACDAC
 - Text & Dark Points: #4A4A4A
 -->
@@ -9,7 +9,6 @@ Branding Colors:
 <!-- Banner Image -->
 <p align="center">
   <a href="https://github.com/Mariana-GG">
-    <!-- Der Dateiname wurde URL-kodiert (Leerzeichen durch %20 ersetzt), um korrekt geladen zu werden -->
     <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Github%20Banner%20for%20README.png" alt="Aurea Mariana Gallegos Banner" width="1280px" height="200px"/>
   </a>
 </p>
@@ -33,11 +32,10 @@ Branding Colors:
     <a href="https://www.sundai.club/hacker/44dcec1e-42b7-4b93-9e54-3f2d24aadc5a"><img src="https://img.shields.io/badge/Sundai-fff6e5?style=for-the-badge&logoColor=4A4A4A" alt="Sundai"/></a>
 </p>
 
----
-<!-- Profile Photo 
+<!-- Custom Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/Bewerbungsportrait.png" alt="Aurea Mariana Gallegos" width="97px" style="border-radius:50%;"/>
-</p> -->
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
+</p>
 
 <div align="justify">
 <p align="center">🌸</p>
@@ -51,14 +49,29 @@ I love the joy of untangling a complex bug, but my psychology background taught 
 <p align="center">🌸</p>
 </div>
 
----
-
+<!-- Custom Divider -->
 <p align="center">
---> Currently Learning: GitLab, Kubernetes and LLMs. <br>
---> Open to Collaborating On: Automation projects and backend frameworks.
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
 </p>
 
----
+<!-- Structured Learning & Collaboration Section -->
+<table align="center" width="80%">
+  <tr>
+    <td align="center">
+      <h3>🌱 Currently Learning</h3>
+      <p>GitLab, Kubernetes, and LLMs</p>
+    </td>
+    <td align="center">
+      <h3>🌱 Open to Collaborating On</h3>
+      <p>Automation projects and backend frameworks</p>
+    </td>
+  </tr>
+</table>
+
+<!-- Custom Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mariana-GG/Mariana-GG/main/assets/block%20devider%201000px%20x%2040px.png" alt="Custom Divider" />
+</p>
 
 ### Tech Junior Experience
 
