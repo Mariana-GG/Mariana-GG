@@ -33,13 +33,17 @@
 
 
 
-<p align="left">
-Hello! I'm a Python backend developer based in beautiful Hamburg 🇩🇪, and I'm completely fascinated by the puzzle of automation. For the past year, I've been diving deep into full-time backend development, learning to build and deploy projects with Django, REST APIs, and AWS.
+<div align="justify">
+<p align="center">🌸</p>
 
-My passion lies in crafting clean, elegant architecture (shout out to PEP8!) and the satisfying process of debugging. The struggle is real when a bug plays hide-and-seek for hours (or days!), but that 'aha!' moment makes it all worth it. Every mistake is just a stepping stone, and I truly believe this whole coding journey is a wonderfully fun trip.
+<strong>My core belief is that great software is built by great teams.</strong>
+<br><br>
+I love the joy of untangling a complex bug, but my psychology background taught me the secret is building <i>trust</i>. 
+<br><br>
+<i>That's why I'm looking for a partnership where our values align, so we can be truly valuable for one another.</i>
 
-When I'm not coding, you can find me practicing different sports or enjoying a moment of wellness. I'm always open to collaborating on spontaneous projects, especially those involving automation and frameworks—let's build something cool together!
-</p>
+<p align="center">🌸</p>
+</div>
 
 
 
