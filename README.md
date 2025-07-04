@@ -30,7 +30,7 @@ Branding Colors:
      
     <a href="https://roadmap.sh/u/marianagg"><img src="https://img.shields.io/badge/My%20Roadmap-fff6e5?style=for-the-badge&logo=roadmap.sh&logoColor=4A4A4A" alt="Roadmap.sh"/></a>
      
-    <a href="https://www.sundai.club/hacker/44dcec1e-42b7-4b93-9e54-3f2d24aadc5a"><img src="https://img.shields.io/badge/Sundai-fff6e5?style=for-the-badge&logoColor=4A4A4A" alt="Sundai"/></a>
+    <a href="https://www.sundai.club/hacker/44dcec1e-42b7-4b93-9e54-3f2d24aadc5a"><img src="https://img.shields.io/badge/Sundai-fff6e5?style=for-the-badge&logo=sundai.club&logoColor=4A4A4A" alt="Sundai Hacks"/></a>
 </p>
 
 
